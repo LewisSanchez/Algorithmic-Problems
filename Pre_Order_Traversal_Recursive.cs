@@ -13,7 +13,6 @@ public class Solution
 	public IList<int> PreorderTraversal(TreeNode root)
 	{
 		List<int> preOrder = new List<int>();
-
 		PreorderTraversal(root, preOrder);
 
 		return preOrder;

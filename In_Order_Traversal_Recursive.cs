@@ -13,7 +13,6 @@ public class Solution
 	public IList<int> InOrderTraversal(TreeNode root)
 	{
 		List<int> inOrder = new List<int>();
-
 		Traverse(root, inOrder);
 		
 		return inOrder;

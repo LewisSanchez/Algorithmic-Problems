@@ -13,7 +13,6 @@ public class Solution
 	public IList<int> PostorderTraversal(TreeNode root)
 	{
 		List<int> postOrder = new List<int>();
-
 		Postorder(root, postOrder);
 
 		return postOrder;
