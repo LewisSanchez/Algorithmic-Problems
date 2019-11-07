@@ -1,4 +1,5 @@
 // improved solution to: https://leetcode.com/problems/validate-binary-search-tree/
+// because it doesn't make use of a list
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
