@@ -1,3 +1,4 @@
+// Solution to: https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
 public class Solution
 {
 	public int CountComponents(int n, int[][] edges)
